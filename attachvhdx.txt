@@ -1,0 +1,2 @@
+select vdisk file=c:\NCS.vhdx
+attach vdisk
